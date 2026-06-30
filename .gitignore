@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+
+# VS Code
+.vscode/
+
+# Models
+*.pt
+
+# Output
+output/
+*.csv
+
+# macOS
+.DS_Store
